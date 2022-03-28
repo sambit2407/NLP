@@ -1,34 +1,62 @@
-2022-03-26/12:54:16		Start of cleaning process!!
-2022-03-26/12:54:18		study preliminary study high school student value change terrorist attack u review word after using lammetize
-2022-03-26/12:54:18		major limitation study student population california might truly represent high school student u study could considered truly longitudinal study privacy issue prevented researcher identifying student returned survey attack review word after using lammetize
-2022-03-26/12:54:18		addition senior class graduated previous year much larger freshman class entered school review word after using lammetize
-2022-03-26/12:54:18		issue made sample similar also different composition review word after using lammetize
-2022-03-26/12:54:18		researcher conduct periodic study explore whether value change permanent continue adulthood review word after using lammetize
-2022-03-26/12:54:18		know change take place value grow older continue explore value longitudinal study impact terrorist attack review word after using lammetize
-2022-03-26/12:54:18		6 corpus
-2022-03-26/12:54:18		[[0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-  0 0 0 0 0 0 0 1 0 0 1 2 0 0 1 0 1 0 0]
- [0 0 0 1 1 0 0 0 0 1 0 1 0 0 0 0 0 0 1 1 0 1 0 0 1 1 0 1 1 0 0 0 0 0 1 0
-  1 0 1 1 1 1 0 1 0 0 3 3 1 0 0 2 0 0 0]
- [1 0 0 0 0 0 2 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0
-  0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1]
- [0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0
-  0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0]
- [0 1 0 0 0 1 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0
-  0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 1 1 0]
- [0 0 0 1 0 1 0 0 0 0 1 0 0 0 1 0 0 1 0 0 1 0 1 0 0 1 0 0 0 0 1 0 0 1 0 0
-  0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 2 0 0]] x matrix and xsize (6, 55) 
-2022-03-26/12:56:27		Start of cleaning process!!
-2022-03-26/12:56:29		['study preliminary study high school student value change terrorist attack u', 'major limitation study student population california might truly represent high school student u study could considered truly longitudinal study privacy issue prevented researcher identifying student returned survey attack', 'addition senior class graduated previous year much larger freshman class entered school', 'issue made sample similar also different composition', 'researcher conduct periodic study explore whether value change permanent continue adulthood', 'know change take place value grow older continue explore value longitudinal study impact terrorist attack']  6 corpus
-2022-03-26/12:56:29		[[0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-  0 0 0 0 0 0 0 1 0 0 1 2 0 0 1 0 1 0 0]
- [0 0 0 1 1 0 0 0 0 1 0 1 0 0 0 0 0 0 1 1 0 1 0 0 1 1 0 1 1 0 0 0 0 0 1 0
-  1 0 1 1 1 1 0 1 0 0 3 3 1 0 0 2 0 0 0]
- [1 0 0 0 0 0 2 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0
-  0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1]
- [0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0
-  0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0]
- [0 1 0 0 0 1 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0
-  0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 1 1 0]
- [0 0 0 1 0 1 0 0 0 0 1 0 0 0 1 0 0 1 0 0 1 0 1 0 0 1 0 0 0 0 1 0 0 1 0 0
-  0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 2 0 0]] x matrix and xsize (6, 55) 
+2022-03-26/20:20:38		Start of cleaning process!!
+2022-03-26/20:20:39		['study preliminary study high school student value change terrorist attack u', 'major limitation study student population california might truly represent high school student u study could considered truly longitudinal study privacy issue prevented researcher identifying student returned survey attack', 'addition senior class graduated previous year much larger freshman class entered school', 'issue made sample similar also different composition', 'researcher conduct periodic study explore whether value change permanent continue adulthood', 'know change take place value grow older continue explore value longitudinal study impact terrorist attack']  6 corpus
+2022-03-26/20:20:39		[[0.         0.         0.         0.27490292 0.         0.27490292
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.32561069 0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.39707928
+  0.         0.         0.         0.         0.         0.
+  0.         0.27490292 0.         0.         0.32561069 0.47114183
+  0.         0.         0.32561069 0.         0.27490292 0.
+  0.        ]
+ [0.         0.         0.         0.126678   0.18297808 0.
+  0.         0.         0.         0.18297808 0.         0.18297808
+  0.         0.         0.         0.         0.         0.
+  0.15004464 0.18297808 0.         0.15004464 0.         0.
+  0.18297808 0.15004464 0.         0.18297808 0.18297808 0.
+  0.         0.         0.         0.         0.18297808 0.
+  0.18297808 0.         0.18297808 0.18297808 0.15004464 0.18297808
+  0.         0.126678   0.         0.         0.45013393 0.32566026
+  0.18297808 0.         0.         0.36595616 0.         0.
+  0.        ]
+ [0.27237446 0.         0.         0.         0.         0.
+  0.54474893 0.         0.         0.         0.         0.
+  0.         0.27237446 0.         0.27237446 0.27237446 0.
+  0.         0.         0.         0.         0.         0.27237446
+  0.         0.         0.         0.         0.         0.27237446
+  0.         0.         0.         0.         0.         0.
+  0.         0.27237446 0.         0.         0.         0.
+  0.         0.18856822 0.27237446 0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.27237446]
+ [0.         0.         0.38713122 0.         0.         0.
+  0.         0.38713122 0.         0.         0.         0.
+  0.38713122 0.         0.         0.         0.         0.
+  0.         0.         0.         0.31745314 0.         0.
+  0.         0.         0.38713122 0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.38713122 0.         0.         0.38713122 0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.        ]
+ [0.         0.34652482 0.         0.         0.         0.23990343
+  0.         0.         0.34652482 0.         0.28415531 0.
+  0.         0.         0.28415531 0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.34652482 0.34652482 0.         0.         0.
+  0.         0.         0.         0.         0.28415531 0.
+  0.         0.         0.         0.         0.         0.20557902
+  0.         0.         0.         0.         0.23990343 0.34652482
+  0.        ]
+ [0.         0.         0.         0.20054454 0.         0.20054454
+  0.         0.         0.         0.         0.23753638 0.
+  0.         0.         0.23753638 0.         0.         0.28967346
+  0.         0.         0.28967346 0.         0.28967346 0.
+  0.         0.23753638 0.         0.         0.         0.
+  0.28967346 0.         0.         0.28967346 0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.17185143
+  0.         0.28967346 0.23753638 0.         0.40108907 0.
+  0.        ]] x matrix and xsize (6, 55) 

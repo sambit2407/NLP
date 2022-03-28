@@ -1,0 +1,9 @@
+s2022-03-28/11:05:27		Data Loaded successfully
+2022-03-28/11:05:57		Data cleaned  successfully!!
+2022-03-28/11:05:57		TFID Vectorization Done !!
+2022-03-28/11:05:58		train test split done !!
+2022-03-28/11:05:58		Testing Started .....
+2022-03-28/11:05:58		Confusion matrix : [[943   0]
+ [ 44 128]]
+2022-03-28/11:05:58		Accuracy Score  : 0.9605381165919282
+2022-03-28/11:05:58		Testing Ended .....
